@@ -319,9 +319,9 @@ print(me)
 |---|---|
 | NASA International Space Apps Challenge — **Galactic Problem Solver** | 2023 |
 | Member, **NSU IEEE** Student Branch | 2020 – 2023 |
-| Python (Basic) Certificate — **HackerRank** | — |
-| Introduction to Java as a Second Language — **Coursera** | — |
-| C for Everyone: Programming Fundamentals — **Coursera** | — |
+| Python (Basic) Certificate — **HackerRank** | 2025 |
+| Introduction to Java as a Second Language — **Coursera** | 2022 |
+| C for Everyone: Programming Fundamentals — **Coursera** | 2021 |
 
 ---
 
