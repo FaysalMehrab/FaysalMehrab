@@ -301,11 +301,11 @@ print(me)
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaysalMehrab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=06B6D4&text_color=ffffff" height="170"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaysalMehrab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" height="170"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FaysalMehrab&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA" width="60%"/>
