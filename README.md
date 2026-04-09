@@ -60,7 +60,8 @@ print(me)
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="[https://img.shields.io/badge/-SOL-8B5CF6?style=for-the-badge](https://www.siliconorchard.com/)" />
+      <a href="https://www.siliconorchard.com/">
+      <img src="https://img.shields.io/badge/-SOL-8B5CF6?style=for-the-badge" />
     </td>
     <td>
       <strong>Machine Learning Engineer</strong> — <em>Silicon Orchard Ltd.</em><br/>
@@ -70,7 +71,8 @@ print(me)
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="[https://img.shields.io/badge/-BTF-06B6D4?style=for-the-badge](https://www.linkedin.com/company/bangladesh-thalassemia-foundation/posts/?feedView=all)" />
+        <a href="https://www.linkedin.com/company/bangladesh-thalassemia-foundation/posts/?feedView=all">
+      <img src="https://img.shields.io/badge/-BTF-06B6D4?style=for-the-badge" />
     </td>
     <td>
       <strong>Python Web Scraper</strong> — <em>Bangladesh Thalassemia Foundation</em><br/>
