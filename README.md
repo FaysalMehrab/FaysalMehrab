@@ -27,7 +27,7 @@ class MLEngineer:
         self.name       = "Faysal Mehrab Chowdhury"
         self.role       = "Machine Learning Engineer @ Silicon Orchard Ltd."
         self.location   = "Dhaka, Bangladesh 🇧🇩"
-        self.education  = "B.Sc. CSE — North South University (CGPA: 3.14/4.0)"
+        self.education  = "B.Sc. CSE — North South University"
         self.focus      = [
             "Large Language Models & NLP",
             "Computer Vision & Real-time AI",
@@ -49,9 +49,9 @@ print(me)
 
 ## 🎓 Education
 
-| Degree | Institution | Period | CGPA |
-|--------|------------|--------|------|
-| B.Sc. Computer Science & Engineering | North South University, Dhaka | Jan 2020 – Apr 2025 | 3.14 / 4.0 |
+| Degree | Institution | Period |
+|--------|------------|--------|
+| B.Sc. Computer Science & Engineering | North South University, Dhaka | Jan 2020 – Apr 2025 |
 
 ---
 
