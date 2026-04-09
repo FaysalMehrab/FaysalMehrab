@@ -327,25 +327,6 @@ print(me)
 
 ---
 
-## 🎯 Expertise Depth
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   NLP / LLMs & Agents     ████████████████████░░  90%                    │
-│   Deep Learning           ████████████████████░░  90%                    │
-│   Computer Vision         ████████████████░░░░░░  78%                    │
-│   Generative AI           ████████████████░░░░░░  78%                    │
-│   Real-time AI Systems    ███████████████░░░░░░░  74%                    │
-│   MLOps / Production ML   ███████████████░░░░░░░  72%                    │
-│   PEFT / Fine-tuning      ██████████████░░░░░░░░  68%                    │
-│   Web & Deployment        ██████████████░░░░░░░░  68%                    │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
