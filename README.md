@@ -26,7 +26,6 @@ class MLEngineer:
     def __init__(self):
         self.name       = "Faysal Mehrab Chowdhury"
         self.role       = "Machine Learning Engineer @ Silicon Orchard Ltd."
-        self.location   = "Dhaka, Bangladesh 🇧🇩"
         self.education  = "B.Sc. CSE — North South University"
         self.focus      = [
             "Large Language Models & NLP",
@@ -36,7 +35,6 @@ class MLEngineer:
         ]
         self.currently  = "Building production-grade AI pipelines"
         self.open_to    = "Collaboration on impactful ML research & projects"
-        self.fun_fact   = "I once built an exoplanet explorer for NASA Space Apps 🚀"
 
     def __str__(self):
         return "Passionate about pushing the frontier of applied AI."
